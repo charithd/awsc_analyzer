@@ -30,7 +30,7 @@ Clone the Tool and run as below
 ```
 ./aws_analyzer_v1.1.py 34534533 us-west-1
 ``` 
-![alt text](https://github.com/charithd/aws_analyzer/blob/master/aws-analyzer_out.png)
+![alt text](https://github.com/charithd/awsc_analyzer/blob/master/aws-analyzer_out.png)
 
 ### Reports
 The tool will generate 4 reports:
